@@ -1,17 +1,13 @@
 ## EnterToAction
-[Trigger an action when the user hits the enter key in a text input]
+This widget is used as part of the Mendix Academy learning path: Build a Pluggable Widget.
+
+![image-20200728135506168](README.assets/image-20200728135506168.png)
 
 ## Features
-[feature highlights]
-
-## Usage
-[step by step instructions]
-
-## Demo project
-[link to sandbox]
+The widget renders a textbox that features an event that it triggered when the user hits the `Enter` key. 
 
 ## Issues, suggestions and feature requests
-[link to GitHub issues]
+https://github.com/cdcharlebois/academy-build-a-pluggable-widget/issues
 
 ## Development and contribution
-[specify contribute]
+Not actively accepting pull requests at this time.
